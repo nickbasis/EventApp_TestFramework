@@ -1,0 +1,5 @@
+"chromeOptions": {
+          "args": ["auto-open-devtools-for-tabs"],
+		  "mobileEmulation": {
+			"deviceName": "iPad",
+			"screenOrientation": "landscape"
